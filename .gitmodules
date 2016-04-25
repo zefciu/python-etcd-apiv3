@@ -1,0 +1,6 @@
+[submodule "etcd-original"]
+	path = etcd
+	url = https://github.com/coreos/etcd.git
+[submodule "protobuf-original"]
+	path = protobuf
+	url = https://github.com/gogo/protobuf.git

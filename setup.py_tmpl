@@ -1,0 +1,8 @@
+from setuptools import setup
+
+setup(
+    name='etcd-apiv3',
+    version='{version}',
+    description='etcd apiv3 bindings for Python',
+    maintainer='spyzalski@mirantis.com',
+)

@@ -1,0 +1,4 @@
+*.swp
+MANIFEST
+setup.py
+gogoproto
